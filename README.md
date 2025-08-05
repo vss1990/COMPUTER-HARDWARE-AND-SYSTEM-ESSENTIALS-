@@ -16,7 +16,7 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
     <td style="text-align: center;">"What happens Inside A Computer? Let’s reveal it.</td>
     <td style="text-align: center;"></td>
     <td style="text-align: center;">
-      <a href="https://youtu.be/x3c1ih2NJEg?si=3uqj-ykIUZvmv3yu" target="_blank](https://youtu.be/AkFi90lZmXA?si=LmY7-Lc01kN6MIsz">Watch Video</a>
+      <a href="https://youtu.be/AkFi90lZmXA?si=LmY7-Lc01kN6MIsz">Watch Video</a>
     </td>
   </tr>
   <tr>

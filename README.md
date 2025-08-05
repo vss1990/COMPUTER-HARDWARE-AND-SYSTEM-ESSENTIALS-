@@ -20,7 +20,7 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
   </tr>
   <tr>
     <td style="text-align: center;">Session 2</td>
-    <td style="text-align: center;">Introduction to computer systems, Categorizing Computers, Parts of a Computer System</td>
+    <td style="text-align: center;">Introduction to Computer Systems, Categorizing Computers, Parts of a Computer System</td>
     <td style="text-align: center;">
       <a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/EWMpZ_qOERtNvlS6M6l37UABX3XJWTaBNWKYpj-hTP_erg?e=6V8Nki">Download PPT</a>
     </td>

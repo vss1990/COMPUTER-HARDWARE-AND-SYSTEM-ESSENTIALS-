@@ -6,7 +6,7 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
 ### Reference Text Download Link: <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/Ec6kyK1C-fBHizd4dtmvKPYB0oV2M1_LZl5yX-nKz6yWag?e=CCtFsy">Download</a>
 <table border="1" width="100%">
   <tr>
-    <th style="width: 15%; text-align: center; white-space: nowrap;">Session</th>
+    <th style="width: 30%; text-align: center; white-space: nowrap;">Session</th>
     <th style="width: 35%; text-align: center;">Topic</th>
     <th style="width: 25%; text-align: center;">PPT Link</th>
     <th style="width: 25%; text-align: center;">Video Links</th>

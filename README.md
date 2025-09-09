@@ -67,6 +67,12 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
     <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/EcJyLqZc8fBAtbdchwXZiTkBDWNVba4H-muj_WDDgoYX5g?e=N7Zzd8">Download PPT</td>
     <td style="text-align: center;"></td>
   </tr>
+    <tr>
+    <td style="text-align: center; white-space: nowrap;">Session 9(Lab)</td>
+    <td style="text-align: center;">OS Installation <a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/EYeyPFRnXw5Ht9yF0DvGi7EBYF7hSnyDyO9kwqIoWjeO-Q?e=LfdrOv">Download VB Manual</a></td>
+    <td style="text-align: center;"></td>
+    <td style="text-align: center;"></td>
+  </tr>
 
 
       

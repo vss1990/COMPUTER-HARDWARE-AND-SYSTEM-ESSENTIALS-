@@ -62,7 +62,7 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
     <td style="text-align: center;"></td>
   </tr>
   <tr>
-    <td style="text-align: center; white-space: nowrap;">Session 7</td>
+    <td style="text-align: center; white-space: nowrap;">Session 8</td>
     <td style="text-align: center;">Number System - Conversions</td>
     <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/EcJyLqZc8fBAtbdchwXZiTkBDWNVba4H-muj_WDDgoYX5g?e=N7Zzd8">Download PPT</td>
     <td style="text-align: center;"></td>

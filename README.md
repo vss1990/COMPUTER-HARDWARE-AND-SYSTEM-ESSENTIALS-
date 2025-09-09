@@ -46,7 +46,7 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
   <tr>
     <td style="text-align: center; white-space: nowrap;">Session 5</td>
     <td style="text-align: center;">Operating System - Linux, Linux Commands</td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/EeaZXEWFuo5HsR_evjZMmN0BORO7wnKHp-RxzYHKrYSdvg?e=7hT0zj">Download PPT</a></td>
     <td style="text-align: center;"></td>
   </tr>
    <tr>
@@ -55,6 +55,21 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
     <td style="text-align: center;"></td>
     <td style="text-align: center;"></td>
   </tr>
+<tr>
+    <td style="text-align: center; white-space: nowrap;">Session 7</td>
+    <td style="text-align: center;">Number System</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/EQVmCQJQnKtJqPBcK45Rb3IBMOoSrhcQWevDVdWd9qnazg?e=QLTDv3">Download PPT</td>
+    <td style="text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center; white-space: nowrap;">Session 7</td>
+    <td style="text-align: center;">Number System - Conversions</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/EcJyLqZc8fBAtbdchwXZiTkBDWNVba4H-muj_WDDgoYX5g?e=N7Zzd8">Download PPT</td>
+    <td style="text-align: center;"></td>
+  </tr>
+
+
+      
 </table>
   
 </table>

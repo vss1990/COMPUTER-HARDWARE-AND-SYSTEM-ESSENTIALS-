@@ -75,7 +75,7 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
   </tr>
  <tr>
     <td style="text-align: center; white-space: nowrap;">Session 10(Class Test 1)</td>
-    <td style="text-align: center;">Lab sheet 1 Linux Commands - Familiarization <a href ="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/EQSR8Msr5H1Fk8vROzyUwgcBI8rJItHkp4DmhqbDGLBe0w?e=UfQIw8">Download</a>a></td>
+    <td style="text-align: center;">QP <a href ="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/EQSR8Msr5H1Fk8vROzyUwgcBI8rJItHkp4DmhqbDGLBe0w?e=UfQIw8">Download</a>a></td>
     <td style="text-align: center;"></td>
     <td style="text-align: center;"></td>
   </tr>

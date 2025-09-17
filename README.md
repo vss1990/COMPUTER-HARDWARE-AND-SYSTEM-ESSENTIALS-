@@ -87,8 +87,8 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
   </tr>
   <tr>
     <td style="text-align: center; white-space: nowrap;">Session 12(Lab)</td>
-    <td style="text-align: center;">Virtual Labs-Verification and interpretation of truth table for AND, OR, NOT, NAND, NOR<a href="https://de-iitr.vlabs.ac.in/exp/truth-table-gates/index.html">Vlab Link</a></td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;">Virtual Labs-Verification and interpretation of truth table for AND, OR, NOT, NAND, NOR</td>
+    <td style="text-align: center;"><a href="https://de-iitr.vlabs.ac.in/exp/truth-table-gates/index.html">Vlab Link</a></td>
     <td style="text-align: center;"></td>
 
       

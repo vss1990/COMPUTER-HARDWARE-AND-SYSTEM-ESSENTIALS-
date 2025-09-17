@@ -79,6 +79,17 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
     <td style="text-align: center;"></td>
     <td style="text-align: center;"></td>
   </tr>
+ <tr>
+    <td style="text-align: center; white-space: nowrap;">Session 11</td>
+    <td style="text-align: center;">Boolean Algebra and Logic Gates</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/Eei2r3FF2nBAlzvvhPti4dQBksYJWsx_a3peNK3tz_hYIw?e=TL3Xkg"</td>
+    <td style="text-align: center;"></td>
+  </tr>
+  <tr>
+    <td style="text-align: center; white-space: nowrap;">Session 12(Lab)</td>
+    <td style="text-align: center;">Virtual Labs-Verification and interpretation of truth table for AND, OR, NOT, NAND, NOR<a href="https://de-iitr.vlabs.ac.in/exp/truth-table-gates/index.html">Vlab Link</a></td>
+    <td style="text-align: center;"></td>
+    <td style="text-align: center;"></td>
 
       
 </table>

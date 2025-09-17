@@ -76,7 +76,7 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
  <tr>
     <td style="text-align: center; white-space: nowrap;">Session 10(Class Test 1)</td>
     <td style="text-align: center;">QP<a href ="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/EQSR8Msr5H1Fk8vROzyUwgcBI8rJItHkp4DmhqbDGLBe0w?e=UfQIw8">Download</a></td>
-    <td style="text-align: center;"></td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:b:/g/personal/vishnuss_am_amrita_edu/Eariza874UJGsBHHSE6CKM8BXammIc-Ru_dqXpZ4GndPLQ?e=KbuARP">Answer Key</a></td>
     <td style="text-align: center;"></td>
   </tr>
  <tr>
@@ -87,7 +87,7 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
   </tr>
   <tr>
     <td style="text-align: center; white-space: nowrap;">Session 12(Lab)</td>
-    <td style="text-align: center;">Virtual Labs-Verification and interpretation of truth table for AND, OR, NOT, NAND, NOR</td>
+    <td style="text-align: center;">Virtual Labs-Verification and interpretation of truth table for AND, OR, NOT, NAND, NOR Gates</td>
     <td style="text-align: center;"><a href="https://de-iitr.vlabs.ac.in/exp/truth-table-gates/index.html">Vlab Link</a></td>
     <td style="text-align: center;"></td>
 

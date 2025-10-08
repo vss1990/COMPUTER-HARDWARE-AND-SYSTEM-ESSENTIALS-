@@ -91,6 +91,12 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
     <td style="text-align: center;"><a href="https://de-iitr.vlabs.ac.in/exp/truth-table-gates/index.html">Vlab Link</a></td>
     <td style="text-align: center;"></td>
   </tr>
+   <tr>
+    <td style="text-align: center; white-space: nowrap;">Session 13</td>
+    <td style="text-align: center;">Realization of Logic Gate Using Universal gates​</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/EaO2GdO1EMlJrTrKRQJbl5QBT78RdhPUkdrCKgYq5c0NFA?e=iyuOUd">Download ppt</a></td>
+    <td style="text-align: center;"></td>
+  </tr>
 
       
 </table>

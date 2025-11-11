@@ -117,6 +117,13 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
     <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/ER37Owh7RhdFqM97-8HssMABdhaVnCp6IgSb2SM_fDEaMQ?e=fC8Pta">PPT</a></td>
     <td style="text-align: center;"></td>
   </tr>
+        </tr>
+      <tr>
+    <td style="text-align: center; white-space: nowrap;">Midterm Answer Key</td>
+    <td style="text-align: center;"> </td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:w:/g/personal/vishnuss_am_amrita_edu/IQAUqqQNRseJQI2NMRZpZ-NIAcxZ3NWedaIJxiRxuphWJ8w?e=jOeLVP">View</a></td>
+    <td style="text-align: center;"></td>
+  </tr>
 </table>
   
 </table>

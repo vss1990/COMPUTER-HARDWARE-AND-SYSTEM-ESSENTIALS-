@@ -105,6 +105,13 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
     <td style="text-align: center;"></td>
   </tr>
       <tr>
+    <td style="text-align: center; white-space: nowrap;">Session 15</td>
+    <td style="text-align: center;">K-map</td>
+​</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQAfhCrwudciR5DDWJKdBRGdAYwBHYQxsxo-LqzsOJI9Gs8?e=8kaTKZ">Download ppt</a></td>
+    <td style="text-align: center;"></td>
+  </tr>
+      <tr>
     <td style="text-align: center; white-space: nowrap;">Session 15(Lab)</td>
     <td style="text-align: center;"> Realization of Basic Logic Gates Using Integrated Circuits</td>
     <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/EYFakUqbDJdJmadAt8MgRRoBwPssFrHCDLA4Ipbyl1muYg?e=2bbboS">PPT</a></td>

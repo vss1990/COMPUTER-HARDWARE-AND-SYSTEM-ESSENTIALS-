@@ -131,6 +131,18 @@ Theory/ Practical on Computer Hardware &amp; System Essentials
     <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:w:/g/personal/vishnuss_am_amrita_edu/IQAUqqQNRseJQI2NMRZpZ-NIAcxZ3NWedaIJxiRxuphWJ8w?e=jOeLVP">View</a></td>
     <td style="text-align: center;"></td>
   </tr>
+    <tr>
+    <td style="text-align: center; white-space: nowrap;">Session 17</td>
+    <td style="text-align: center;"> Combinational Circuits-Theory</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQCiPnbUiR1yR4D3mWSWq4P8AeycV53prj72opF_P21v9T4?e=VCmNYl">PPT</a></td>
+    <td style="text-align: center;"></td>
+  </tr>
+      <tr>
+    <td style="text-align: center; white-space: nowrap;">Session 18</td>
+    <td style="text-align: center;"> Sequential Circuits-Theory</td>
+    <td style="text-align: center;"><a href="https://amritauniv-my.sharepoint.com/:p:/g/personal/vishnuss_am_amrita_edu/IQDE5njIMA-SQJwKm6MgRWswAecAzy7sZfMz5zSJxH7K4V4?e=N6qe6S">PPT</a></td>
+    <td style="text-align: center;"></td>
+  </tr>
 </table>
   
 </table>
